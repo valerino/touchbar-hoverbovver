@@ -1,8 +1,19 @@
 # Touchbar Hover Bovver
-Just a quick hack on how to display something on the MBP 2017+ touchbar....
 
-Made mostly as a tribute to Jeff Minter of LLamasoft and to one of the best videogames ever made for the C64, imho :)
+## WTF ?!?
+Just a quick touchbar hack :)
 
-# Using
-Load in XCode, build, run, and watch the touchbar ..... nothing else :)
+## but ... why ?
+Coz it was missing :) I made it mostly as a tribute to Jeff Minter of LLamasoft !
+
+## Why Hover Bovver ?
+My dad, who's now in a better place probably (ciao Enzo!), bought me the tape back in 1983. 
+
+It was my first videogame ever on C64, the one i remember the most.
+
+## How it looks like
+![Alt Text](./hover_bovver.gif)
+
+## How to use it
+Load project in XCode, build, run... and watch the touchbar, nothing else :)
 
